@@ -12,7 +12,8 @@
 - https://documenter.getpostman.com/view/25525292/2s8ZDeUykG
 
 ## Test cases
+- https://docs.google.com/spreadsheets/d/1r4b0M4w84MSNuYoWlldL74VudGO5a4RCam6LvQVOaFQ/edit#gid=1820282273
 
+![Capture](https://user-images.githubusercontent.com/123764378/215193238-85a62cc2-7edc-4529-933a-4c6729610a01.JPG)
+![2](https://user-images.githubusercontent.com/123764378/215193255-e31cc399-d8f9-4e08-b783-dd8f93140c83.JPG)
 
-![newman summary](https://user-images.githubusercontent.com/123764378/215182772-b582b440-b0b2-4bbd-8e86-8ca9de257006.JPG)
-![Capture](https://user-images.githubusercontent.com/123764378/215182785-7f1734a6-9b2d-421d-891d-f9e1bf0861b4.JPG)
